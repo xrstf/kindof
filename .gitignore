@@ -1,0 +1,6 @@
+/data
+/kube
+/pki
+/etc/tokens/tokens.csv
+kubeconfig
+/compose.yaml
